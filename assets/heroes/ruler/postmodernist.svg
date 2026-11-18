@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Northline, postmodernist Ruler hero</title>
+  <desc id="desc">A Memphis-inspired planning toolkit hero that combines precise grids and bold geometric blocks with a clear headline and action button.</desc>
+  <rect width="1200" height="675" fill="#f5f0df"/>
+  <rect y="0" width="1200" height="18" fill="#17847c"/>
+  <text x="78" y="82" fill="#202c32" font-family="Arial,sans-serif" font-size="27" font-weight="800" letter-spacing="2">NORTHLINE</text>
+  <text x="1122" y="82" text-anchor="end" fill="#202c32" font-family="Arial,sans-serif" font-size="14" font-weight="700">A CLEARER WAY FORWARD</text>
+  <line x1="78" y1="108" x2="1122" y2="108" stroke="#202c32" stroke-width="2"/>
+  <rect x="812" y="167" width="278" height="302" fill="#f0c83c"/>
+  <path d="M832 424 L917 225 L1001 424 Z" fill="#e75848" stroke="#202c32" stroke-width="5"/>
+  <circle cx="1034" cy="231" r="35" fill="#17847c" stroke="#202c32" stroke-width="4"/>
+  <path d="M830 464 l42 -39 42 39 -42 39z" fill="#3154bb" stroke="#202c32" stroke-width="4"/>
+  <path d="M1000 359 h92 M1046 313 v92" stroke="#202c32" stroke-width="8"/>
+  <text x="80" y="193" fill="#17847c" font-family="Arial,sans-serif" font-size="15" font-weight="800" letter-spacing="2">TOOLS FOR INDEPENDENT TEAMS</text>
+  <text x="76" y="292" fill="#202c32" font-family="Arial,sans-serif" font-size="68" font-weight="900">Decide clearly.</text>
+  <text x="76" y="366" fill="#e75848" font-family="Arial,sans-serif" font-size="68" font-weight="900">Lead consistently.</text>
+  <text x="80" y="422" fill="#4d5959" font-family="Arial,sans-serif" font-size="21">A practical framework for making the next decision clear.</text>
+  <rect x="80" y="466" width="242" height="60" rx="4" fill="#202c32"/>
+  <text x="201" y="504" text-anchor="middle" fill="#f5f0df" font-family="Arial,sans-serif" font-size="16" font-weight="700">REVIEW THE FRAMEWORK</text>
+  <text x="1122" y="615" text-anchor="end" fill="#4d5959" font-family="Arial,sans-serif" font-size="14">ORIGINAL GENERATED DESIGN · MEMPHIS-INSPIRED</text>
+</svg>

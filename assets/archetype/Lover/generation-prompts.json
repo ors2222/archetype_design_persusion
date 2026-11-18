@@ -1,0 +1,172 @@
+{
+  "tool": "OpenAI image generation",
+  "date": "2026-10-02",
+  "briefs": [
+    {
+      "id": "everyperson",
+      "brand": "COMMON TABLE",
+      "audience": "college students new to board games",
+      "offer": "Free beginner board-game night.",
+      "cta": "Reserve my seat",
+      "subject": "Inviting overhead view of a communal table with a simple generic board game, mugs, dice, and empty chairs, with space to join. No people. Editorial flat illustration, not a photo.",
+      "copy": [
+        [
+          "New to game night? So are we.",
+          "Meet friendly hosts who love easy games and low-pressure evenings."
+        ],
+        [
+          "Our campus. Our table.",
+          "A weekly board-game night for students at our college. Make room for one more."
+        ]
+      ],
+      "styles": [
+        "Bauhaus modernism: functional sans serif, clear hierarchy, circle-square-triangle geometry, organized asymmetric grid. Cream, vermilion, black, a little golden yellow. Main text LEFT and circular table illustration RIGHT, CTA beneath copy. Inspired by Herbert Bayer's geometric Bauhaus exhibition graphic, original content.",
+        "Punk postmodern counter-design: hand-cut typography in legible uneven strips, photocopied illustration, torn paper, tape and xerox grain. Hot pink, acid yellow and deep black, no cream modernist grid. Table illustration LEFT, staggered copy RIGHT, CTA on solid yellow band. DIY welcoming zine, not aggressive or exclusionary. Inspired by Jamie Reid's cut-and-paste method, not monarchy imagery."
+      ]
+    },
+    {
+      "id": "jester",
+      "brand": "SIDE QUEST",
+      "audience": "college study groups who want a short playful break",
+      "offer": "Free printable party-game kit.",
+      "cta": "Get the game kit",
+      "subject": "A fan of playful generic game cards, a comically bent pencil, a smiling geometric shape and dice, visually funny but clear product preview. No people. Editorial flat illustration, not photo.",
+      "copy": [
+        [
+          "Serious about silly games.",
+          "For friends who love bad puns and quick laughs. Take a playful study break."
+        ],
+        [
+          "Our study group. Our silly ritual.",
+          "Turn your group's study break into a shared game. Keep the inside jokes going."
+        ]
+      ],
+      "styles": [
+        "De Stijl modernism: strict horizontal and vertical black rules, unequal rectangles, pure red blue yellow with large white spaces. No diagonal decorative lines, no squiggles. Headline in large top-left white block, illustration in lower-right yellow block, CTA separate red rectangle. Refer to Mondrian's Composition in Red Blue and Yellow via orthogonal structure; original product art.",
+        "Memphis postmodernism: exuberant lavender, turquoise, tangerine and hot pink, playful stacked geometric forms, black squiggles, dots, intentionally clashing patterns. Offset illustration upper-left, headline right, clear copy and CTA bottom on plain turquoise panel. Adapt Carlton's playful geometric stacking and laminate-like pattern, not a furniture image."
+      ]
+    },
+    {
+      "id": "lover",
+      "brand": "LITTLE RITUAL",
+      "audience": "adult couples looking for an unhurried shared evening",
+      "offer": "Free printable conversation cards for two.",
+      "cta": "Get the cards",
+      "subject": "Exactly two tea cups with gentle steam beside a small fan of blank conversation cards, a quiet table and one small flower. No people. Flat editorial illustration with paper texture; do not make a photographic living room.",
+      "copy": [
+        [
+          "For people who love slow evenings.",
+          "We love good tea and unhurried conversation, too. Make a little time for each other."
+        ],
+        [
+          "A little ritual for the two of us.",
+          "Make time for the bond you share. Keep your story growing, one conversation at a time."
+        ]
+      ],
+      "styles": [
+        "Mid-Century modernist graphic design: flat cut-paper organic silhouettes, asymmetric balance, generous negative space, simple serif paired with clean sans. Warm cream, terracotta, olive and cocoa. Text on left, simplified two-cup illustration on right. Adapt Saul Bass's economical cut-paper shapes, not his film imagery. No realistic interiors.",
+        "Push Pin eclectic illustration in contrast to restrained modernism: bold outlined whimsical two-cup drawing, looping steam shaped into a subtle heart, expressive readable decorative serif headline, hand-drawn floral border. Deep aubergine, rose, peach and pale gold, not cream/olive. Illustration on left, expressive headline right, body on plain pale-pink panel, deep aubergine CTA. Original decorative editorial illustration with historical-lettering flavor and visual metaphor; not psychedelic illegibility."
+      ]
+    }
+  ],
+  "heroes": [
+    {
+      "id": "everyperson-hero-1",
+      "archetype": "everyperson",
+      "style": "modernist",
+      "principle": "Liking",
+      "prompt": "Use case: ads-marketing. Create ONE finished static website hero, landscape 4:3, target 1024x768. Fictional assignment mockup, brand COMMON TABLE, everyperson archetype. Audience: college students new to board games. Fixed offer: Free beginner board-game night.. Medium and subject: Inviting overhead view of a communal table with a simple generic board game, mugs, dice, and empty chairs, with space to join. No people. Editorial flat illustration, not a photo.. Bauhaus modernism: functional sans serif, clear hierarchy, circle-square-triangle geometry, organized asymmetric grid. Cream, vermilion, black, a little golden yellow. Main text LEFT and circular table illustration RIGHT, CTA beneath copy. Inspired by Herbert Bayer's geometric Bauhaus exhibition graphic, original content. Liking mechanism: friendly voice and explicitly shared tastes make the fictional host relatable. Exact text, reproduce all: brand \"COMMON TABLE\"; headline \"New to game night? So are we.\"; supporting copy \"Meet friendly hosts who love easy games and low-pressure evenings.\"; separate offer line \"Free beginner board-game night.\"; visible primary button \"Reserve my seat\". All words readable at compact size, especially offer and button. Use no other words. No extra offers, fabricated testimonials, numbers, badges, dates, endorsements, statistics. Keep complete text within safe margins. Original artwork, no real brand logos. "
+    },
+    {
+      "id": "everyperson-hero-2",
+      "archetype": "everyperson",
+      "style": "postmodernist",
+      "principle": "Liking",
+      "prompt": "Use case: ads-marketing. Create ONE finished static website hero, landscape 4:3, target 1024x768. Fictional assignment mockup, brand COMMON TABLE, everyperson archetype. Audience: college students new to board games. Fixed offer: Free beginner board-game night.. Medium and subject: Inviting overhead view of a communal table with a simple generic board game, mugs, dice, and empty chairs, with space to join. No people. Editorial flat illustration, not a photo.. Punk postmodern counter-design: hand-cut typography in legible uneven strips, photocopied illustration, torn paper, tape and xerox grain. Hot pink, acid yellow and deep black, no cream modernist grid. Table illustration LEFT, staggered copy RIGHT, CTA on solid yellow band. DIY welcoming zine, not aggressive or exclusionary. Inspired by Jamie Reid's cut-and-paste method, not monarchy imagery. Liking mechanism: friendly voice and explicitly shared tastes make the fictional host relatable. Exact text, reproduce all: brand \"COMMON TABLE\"; headline \"New to game night? So are we.\"; supporting copy \"Meet friendly hosts who love easy games and low-pressure evenings.\"; separate offer line \"Free beginner board-game night.\"; visible primary button \"Reserve my seat\". All words readable at compact size, especially offer and button. Use no other words. No extra offers, fabricated testimonials, numbers, badges, dates, endorsements, statistics. Keep complete text within safe margins. Original artwork, no real brand logos. "
+    },
+    {
+      "id": "everyperson-hero-3",
+      "archetype": "everyperson",
+      "style": "modernist",
+      "principle": "Unity",
+      "prompt": "Use case: ads-marketing. Create ONE finished static website hero, landscape 4:3, target 1024x768. Fictional assignment mockup, brand COMMON TABLE, everyperson archetype. Audience: college students new to board games. Fixed offer: Free beginner board-game night.. Medium and subject: Inviting overhead view of a communal table with a simple generic board game, mugs, dice, and empty chairs, with space to join. No people. Editorial flat illustration, not a photo.. Bauhaus modernism: functional sans serif, clear hierarchy, circle-square-triangle geometry, organized asymmetric grid. Cream, vermilion, black, a little golden yellow. Main text LEFT and circular table illustration RIGHT, CTA beneath copy. Inspired by Herbert Bayer's geometric Bauhaus exhibition graphic, original content. Unity mechanism: copy explicitly addresses an existing shared group or relationship; belonging must be visible in words, not just friendly visuals. Exact text, reproduce all: brand \"COMMON TABLE\"; headline \"Our campus. Our table.\"; supporting copy \"A weekly board-game night for students at our college. Make room for one more.\"; separate offer line \"Free beginner board-game night.\"; visible primary button \"Reserve my seat\". All words readable at compact size, especially offer and button. Use no other words. No extra offers, fabricated testimonials, numbers, badges, dates, endorsements, statistics. Keep complete text within safe margins. Original artwork, no real brand logos. Vary arrangement and color emphasis from the liking version while retaining the specified named style."
+    },
+    {
+      "id": "everyperson-hero-4",
+      "archetype": "everyperson",
+      "style": "postmodernist",
+      "principle": "Unity",
+      "prompt": "Use case: ads-marketing. Create ONE finished static website hero, landscape 4:3, target 1024x768. Fictional assignment mockup, brand COMMON TABLE, everyperson archetype. Audience: college students new to board games. Fixed offer: Free beginner board-game night.. Medium and subject: Inviting overhead view of a communal table with a simple generic board game, mugs, dice, and empty chairs, with space to join. No people. Editorial flat illustration, not a photo.. Punk postmodern counter-design: hand-cut typography in legible uneven strips, photocopied illustration, torn paper, tape and xerox grain. Hot pink, acid yellow and deep black, no cream modernist grid. Table illustration LEFT, staggered copy RIGHT, CTA on solid yellow band. DIY welcoming zine, not aggressive or exclusionary. Inspired by Jamie Reid's cut-and-paste method, not monarchy imagery. Unity mechanism: copy explicitly addresses an existing shared group or relationship; belonging must be visible in words, not just friendly visuals. Exact text, reproduce all: brand \"COMMON TABLE\"; headline \"Our campus. Our table.\"; supporting copy \"A weekly board-game night for students at our college. Make room for one more.\"; separate offer line \"Free beginner board-game night.\"; visible primary button \"Reserve my seat\". All words readable at compact size, especially offer and button. Use no other words. No extra offers, fabricated testimonials, numbers, badges, dates, endorsements, statistics. Keep complete text within safe margins. Original artwork, no real brand logos. Vary arrangement and color emphasis from the liking version while retaining the specified named style."
+    },
+    {
+      "id": "jester-hero-1",
+      "archetype": "jester",
+      "style": "modernist",
+      "principle": "Liking",
+      "prompt": "Use case: ads-marketing. Create ONE finished static website hero, landscape 4:3, target 1024x768. Fictional assignment mockup, brand SIDE QUEST, jester archetype. Audience: college study groups who want a short playful break. Fixed offer: Free printable party-game kit.. Medium and subject: A fan of playful generic game cards, a comically bent pencil, a smiling geometric shape and dice, visually funny but clear product preview. No people. Editorial flat illustration, not photo.. De Stijl modernism: strict horizontal and vertical black rules, unequal rectangles, pure red blue yellow with large white spaces. No diagonal decorative lines, no squiggles. Headline in large top-left white block, illustration in lower-right yellow block, CTA separate red rectangle. Refer to Mondrian's Composition in Red Blue and Yellow via orthogonal structure; original product art. Liking mechanism: friendly voice and explicitly shared tastes make the fictional host relatable. Exact text, reproduce all: brand \"SIDE QUEST\"; headline \"Serious about silly games.\"; supporting copy \"For friends who love bad puns and quick laughs. Take a playful study break.\"; separate offer line \"Free printable party-game kit.\"; visible primary button \"Get the game kit\". All words readable at compact size, especially offer and button. Use no other words. No extra offers, fabricated testimonials, numbers, badges, dates, endorsements, statistics. Keep complete text within safe margins. Original artwork, no real brand logos. "
+    },
+    {
+      "id": "jester-hero-2",
+      "archetype": "jester",
+      "style": "postmodernist",
+      "principle": "Liking",
+      "prompt": "Use case: ads-marketing. Create ONE finished static website hero, landscape 4:3, target 1024x768. Fictional assignment mockup, brand SIDE QUEST, jester archetype. Audience: college study groups who want a short playful break. Fixed offer: Free printable party-game kit.. Medium and subject: A fan of playful generic game cards, a comically bent pencil, a smiling geometric shape and dice, visually funny but clear product preview. No people. Editorial flat illustration, not photo.. Memphis postmodernism: exuberant lavender, turquoise, tangerine and hot pink, playful stacked geometric forms, black squiggles, dots, intentionally clashing patterns. Offset illustration upper-left, headline right, clear copy and CTA bottom on plain turquoise panel. Adapt Carlton's playful geometric stacking and laminate-like pattern, not a furniture image. Liking mechanism: friendly voice and explicitly shared tastes make the fictional host relatable. Exact text, reproduce all: brand \"SIDE QUEST\"; headline \"Serious about silly games.\"; supporting copy \"For friends who love bad puns and quick laughs. Take a playful study break.\"; separate offer line \"Free printable party-game kit.\"; visible primary button \"Get the game kit\". All words readable at compact size, especially offer and button. Use no other words. No extra offers, fabricated testimonials, numbers, badges, dates, endorsements, statistics. Keep complete text within safe margins. Original artwork, no real brand logos. "
+    },
+    {
+      "id": "jester-hero-3",
+      "archetype": "jester",
+      "style": "modernist",
+      "principle": "Unity",
+      "prompt": "Use case: ads-marketing. Create ONE finished static website hero, landscape 4:3, target 1024x768. Fictional assignment mockup, brand SIDE QUEST, jester archetype. Audience: college study groups who want a short playful break. Fixed offer: Free printable party-game kit.. Medium and subject: A fan of playful generic game cards, a comically bent pencil, a smiling geometric shape and dice, visually funny but clear product preview. No people. Editorial flat illustration, not photo.. De Stijl modernism: strict horizontal and vertical black rules, unequal rectangles, pure red blue yellow with large white spaces. No diagonal decorative lines, no squiggles. Headline in large top-left white block, illustration in lower-right yellow block, CTA separate red rectangle. Refer to Mondrian's Composition in Red Blue and Yellow via orthogonal structure; original product art. Unity mechanism: copy explicitly addresses an existing shared group or relationship; belonging must be visible in words, not just friendly visuals. Exact text, reproduce all: brand \"SIDE QUEST\"; headline \"Our study group. Our silly ritual.\"; supporting copy \"Turn your group's study break into a shared game. Keep the inside jokes going.\"; separate offer line \"Free printable party-game kit.\"; visible primary button \"Get the game kit\". All words readable at compact size, especially offer and button. Use no other words. No extra offers, fabricated testimonials, numbers, badges, dates, endorsements, statistics. Keep complete text within safe margins. Original artwork, no real brand logos. Vary arrangement and color emphasis from the liking version while retaining the specified named style."
+    },
+    {
+      "id": "jester-hero-4",
+      "archetype": "jester",
+      "style": "postmodernist",
+      "principle": "Unity",
+      "prompt": "Use case: ads-marketing. Create ONE finished static website hero, landscape 4:3, target 1024x768. Fictional assignment mockup, brand SIDE QUEST, jester archetype. Audience: college study groups who want a short playful break. Fixed offer: Free printable party-game kit.. Medium and subject: A fan of playful generic game cards, a comically bent pencil, a smiling geometric shape and dice, visually funny but clear product preview. No people. Editorial flat illustration, not photo.. Memphis postmodernism: exuberant lavender, turquoise, tangerine and hot pink, playful stacked geometric forms, black squiggles, dots, intentionally clashing patterns. Offset illustration upper-left, headline right, clear copy and CTA bottom on plain turquoise panel. Adapt Carlton's playful geometric stacking and laminate-like pattern, not a furniture image. Unity mechanism: copy explicitly addresses an existing shared group or relationship; belonging must be visible in words, not just friendly visuals. Exact text, reproduce all: brand \"SIDE QUEST\"; headline \"Our study group. Our silly ritual.\"; supporting copy \"Turn your group's study break into a shared game. Keep the inside jokes going.\"; separate offer line \"Free printable party-game kit.\"; visible primary button \"Get the game kit\". All words readable at compact size, especially offer and button. Use no other words. No extra offers, fabricated testimonials, numbers, badges, dates, endorsements, statistics. Keep complete text within safe margins. Original artwork, no real brand logos. Vary arrangement and color emphasis from the liking version while retaining the specified named style."
+    },
+    {
+      "id": "lover-hero-1",
+      "archetype": "lover",
+      "style": "modernist",
+      "principle": "Liking",
+      "prompt": "Use case: ads-marketing. Create ONE finished static website hero, landscape 4:3, target 1024x768. Fictional assignment mockup, brand LITTLE RITUAL, lover archetype. Audience: adult couples looking for an unhurried shared evening. Fixed offer: Free printable conversation cards for two.. Medium and subject: Exactly two tea cups with gentle steam beside a small fan of blank conversation cards, a quiet table and one small flower. No people. Flat editorial illustration with paper texture; do not make a photographic living room.. Mid-Century modernist graphic design: flat cut-paper organic silhouettes, asymmetric balance, generous negative space, simple serif paired with clean sans. Warm cream, terracotta, olive and cocoa. Text on left, simplified two-cup illustration on right. Adapt Saul Bass's economical cut-paper shapes, not his film imagery. No realistic interiors. Liking mechanism: friendly voice and explicitly shared tastes make the fictional host relatable. Exact text, reproduce all: brand \"LITTLE RITUAL\"; headline \"For people who love slow evenings.\"; supporting copy \"We love good tea and unhurried conversation, too. Make a little time for each other.\"; separate offer line \"Free printable conversation cards for two.\"; visible primary button \"Get the cards\". All words readable at compact size, especially offer and button. Use no other words. No extra offers, fabricated testimonials, numbers, badges, dates, endorsements, statistics. Keep complete text within safe margins. Original artwork, no real brand logos. "
+    },
+    {
+      "id": "lover-hero-2",
+      "archetype": "lover",
+      "style": "postmodernist",
+      "principle": "Liking",
+      "prompt": "Use case: ads-marketing. Create ONE finished static website hero, landscape 4:3, target 1024x768. Fictional assignment mockup, brand LITTLE RITUAL, lover archetype. Audience: adult couples looking for an unhurried shared evening. Fixed offer: Free printable conversation cards for two.. Medium and subject: Exactly two tea cups with gentle steam beside a small fan of blank conversation cards, a quiet table and one small flower. No people. Flat editorial illustration with paper texture; do not make a photographic living room.. Push Pin eclectic illustration in contrast to restrained modernism: bold outlined whimsical two-cup drawing, looping steam shaped into a subtle heart, expressive readable decorative serif headline, hand-drawn floral border. Deep aubergine, rose, peach and pale gold, not cream/olive. Illustration on left, expressive headline right, body on plain pale-pink panel, deep aubergine CTA. Original decorative editorial illustration with historical-lettering flavor and visual metaphor; not psychedelic illegibility. Liking mechanism: friendly voice and explicitly shared tastes make the fictional host relatable. Exact text, reproduce all: brand \"LITTLE RITUAL\"; headline \"For people who love slow evenings.\"; supporting copy \"We love good tea and unhurried conversation, too. Make a little time for each other.\"; separate offer line \"Free printable conversation cards for two.\"; visible primary button \"Get the cards\". All words readable at compact size, especially offer and button. Use no other words. No extra offers, fabricated testimonials, numbers, badges, dates, endorsements, statistics. Keep complete text within safe margins. Original artwork, no real brand logos. "
+    },
+    {
+      "id": "lover-hero-3",
+      "archetype": "lover",
+      "style": "modernist",
+      "principle": "Unity",
+      "prompt": "Use case: ads-marketing. Create ONE finished static website hero, landscape 4:3, target 1024x768. Fictional assignment mockup, brand LITTLE RITUAL, lover archetype. Audience: adult couples looking for an unhurried shared evening. Fixed offer: Free printable conversation cards for two.. Medium and subject: Exactly two tea cups with gentle steam beside a small fan of blank conversation cards, a quiet table and one small flower. No people. Flat editorial illustration with paper texture; do not make a photographic living room.. Mid-Century modernist graphic design: flat cut-paper organic silhouettes, asymmetric balance, generous negative space, simple serif paired with clean sans. Warm cream, terracotta, olive and cocoa. Text on left, simplified two-cup illustration on right. Adapt Saul Bass's economical cut-paper shapes, not his film imagery. No realistic interiors. Unity mechanism: copy explicitly addresses an existing shared group or relationship; belonging must be visible in words, not just friendly visuals. Exact text, reproduce all: brand \"LITTLE RITUAL\"; headline \"A little ritual for the two of us.\"; supporting copy \"Make time for the bond you share. Keep your story growing, one conversation at a time.\"; separate offer line \"Free printable conversation cards for two.\"; visible primary button \"Get the cards\". All words readable at compact size, especially offer and button. Use no other words. No extra offers, fabricated testimonials, numbers, badges, dates, endorsements, statistics. Keep complete text within safe margins. Original artwork, no real brand logos. Vary arrangement and color emphasis from the liking version while retaining the specified named style."
+    },
+    {
+      "id": "lover-hero-4",
+      "archetype": "lover",
+      "style": "postmodernist",
+      "principle": "Unity",
+      "prompt": "Use case: ads-marketing. Create ONE finished static website hero, landscape 4:3, target 1024x768. Fictional assignment mockup, brand LITTLE RITUAL, lover archetype. Audience: adult couples looking for an unhurried shared evening. Fixed offer: Free printable conversation cards for two.. Medium and subject: Exactly two tea cups with gentle steam beside a small fan of blank conversation cards, a quiet table and one small flower. No people. Flat editorial illustration with paper texture; do not make a photographic living room.. Push Pin eclectic illustration in contrast to restrained modernism: bold outlined whimsical two-cup drawing, looping steam shaped into a subtle heart, expressive readable decorative serif headline, hand-drawn floral border. Deep aubergine, rose, peach and pale gold, not cream/olive. Illustration on left, expressive headline right, body on plain pale-pink panel, deep aubergine CTA. Original decorative editorial illustration with historical-lettering flavor and visual metaphor; not psychedelic illegibility. Unity mechanism: copy explicitly addresses an existing shared group or relationship; belonging must be visible in words, not just friendly visuals. Exact text, reproduce all: brand \"LITTLE RITUAL\"; headline \"A little ritual for the two of us.\"; supporting copy \"Make time for the bond you share. Keep your story growing, one conversation at a time.\"; separate offer line \"Free printable conversation cards for two.\"; visible primary button \"Get the cards\". All words readable at compact size, especially offer and button. Use no other words. No extra offers, fabricated testimonials, numbers, badges, dates, endorsements, statistics. Keep complete text within safe margins. Original artwork, no real brand logos. Vary arrangement and color emphasis from the liking version while retaining the specified named style."
+    }
+  ],
+  "drafts": [
+    {
+      "id": "everyperson",
+      "prompt": "Create an initial static website hero design exploration, 4:3 landscape 1024x768. Fictional brand COMMON TABLE. Everyperson archetype for college students who are beginners at board games. Bauhaus-inspired editorial illustration: simple primary-color circles and rectangles, cream ground, clean geometric type. Main illustration overhead round table with empty chairs, simple board game, dice and mugs, inviting warm shared space, no people. Image plus headline supporting copy and visible CTA. Exact text: \"COMMON TABLE\"; \"Find your people.\"; \"Free beginner board-game night.\"; \"Reserve my seat\". Strong elegant composition, large readable copy. No other words, statistics or endorsements."
+    },
+    {
+      "id": "jester",
+      "prompt": "Create an initial static website hero design exploration, 4:3 landscape 1024x768. Fictional brand SIDE QUEST. Jester archetype for college study groups. Memphis-inspired playful editorial illustration of colorful game cards, a wiggly pencil, goofy geometric paper shapes and dice. Coral lavender mint cream with black squiggles. Exact text: \"SIDE QUEST\"; \"Break the boring.\"; \"A free printable party-game kit.\"; \"Get the game kit\". Clear headline copy and CTA, playful illustrated composition. No people or invented claims."
+    },
+    {
+      "id": "lover",
+      "prompt": "Create an initial static website hero design exploration, 4:3 landscape 1024x768. Fictional brand LITTLE RITUAL. Lover archetype for adult couples seeking an unhurried shared evening. Mid-century editorial illustration with two steaming tea cups on a table and a small fan of blank conversation cards; intimate warm scene, no people. Muted terracotta cream olive cocoa palette, flat organic shapes, restrained serif and sans typography. Exact text: \"LITTLE RITUAL\"; \"Make time for love.\"; \"Free printable conversation cards for two.\"; \"Get the cards\". Clear readable type and visible CTA, no extra claims."
+    }
+  ]
+}

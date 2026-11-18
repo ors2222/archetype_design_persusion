@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Open Studio, postmodernist Creator hero</title>
+  <desc id="desc">A playful Memphis-inspired creative practice hero with vivid geometric shapes, a sketchbook illustration, headline, and action button.</desc>
+  <rect width="1200" height="675" fill="#f8f0dc"/>
+  <rect width="1200" height="16" fill="#294cc2"/>
+  <path d="M40 185 L105 125 L167 185 L105 246 Z" fill="#f0644e"/>
+  <circle cx="1090" cy="129" r="58" fill="#f0c83c"/>
+  <path d="M1048 132 q22 -42 44 0 t44 0" fill="none" stroke="#294cc2" stroke-width="8"/>
+  <text x="80" y="83" fill="#20253b" font-family="Arial,sans-serif" font-size="28" font-weight="900">OPEN STUDIO!</text>
+  <text x="1118" y="82" text-anchor="end" fill="#20253b" font-family="Arial,sans-serif" font-size="14" font-weight="700">IDEAS LIKE TO MOVE</text>
+  <line x1="80" y1="106" x2="1120" y2="106" stroke="#20253b" stroke-width="3"/>
+  <text x="84" y="212" fill="#294cc2" font-family="Arial,sans-serif" font-size="16" font-weight="800">ONE SMALL PROMPT. MANY DIRECTIONS.</text>
+  <text x="77" y="304" fill="#20253b" font-family="Arial,sans-serif" font-size="69" font-weight="900">Make the idea.</text>
+  <text x="77" y="381" fill="#f0644e" font-family="Arial,sans-serif" font-size="69" font-weight="900">Then make it yours.</text>
+  <text x="82" y="432" fill="#41465b" font-family="Arial,sans-serif" font-size="21">A guided creative practice for curious minds.</text>
+  <rect x="82" y="467" width="260" height="62" rx="31" fill="#294cc2"/>
+  <text x="212" y="506" text-anchor="middle" fill="#fffdf5" font-family="Arial,sans-serif" font-size="16" font-weight="800">BEGIN YOUR FIRST PROMPT</text>
+  <path d="M774 219 L1012 201 L1043 451 L804 467 Z" fill="#f0644e" stroke="#20253b" stroke-width="5"/>
+  <path d="M760 230 L990 214 L1021 464 L790 480 Z" fill="#fffdf5" stroke="#20253b" stroke-width="5"/>
+  <path d="M814 294 L956 285 M818 334 L964 324 M823 375 L933 367" stroke="#294cc2" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="923" cy="413" r="16" fill="#f0c83c" stroke="#20253b" stroke-width="4"/>
+  <path d="M1090 364 l14 32 35 3 -27 23 8 34 -30 -18 -30 18 8 -34 -27 -23 35 -3z" fill="#3c8879" stroke="#20253b" stroke-width="3"/>
+  <path d="M102 562 q18 -27 36 0 t36 0 t36 0" fill="none" stroke="#294cc2" stroke-width="7"/>
+  <text x="1118" y="615" text-anchor="end" fill="#41465b" font-family="Arial,sans-serif" font-size="14">ORIGINAL GENERATED DESIGN · MEMPHIS-INSPIRED</text>
+</svg>

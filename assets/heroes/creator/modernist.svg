@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Open Studio, modernist Creator hero</title>
+  <desc id="desc">A mid-century inspired hero page for a guided creative practice, with a bold orange sun, abstract paper shapes, headline, and action button.</desc>
+  <rect width="1200" height="675" fill="#f4f0e6"/>
+  <rect x="0" y="0" width="1200" height="18" fill="#d04d35"/>
+  <text x="76" y="82" fill="#263b36" font-family="Georgia,serif" font-size="27" font-weight="700">OPEN STUDIO</text>
+  <text x="1124" y="82" text-anchor="end" fill="#263b36" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">A PRACTICE IN MAKING</text>
+  <line x1="76" y1="108" x2="1124" y2="108" stroke="#263b36" stroke-width="2"/>
+  <text x="82" y="205" fill="#d04d35" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">MAKE ROOM FOR THE IDEA</text>
+  <text x="76" y="295" fill="#263b36" font-family="Georgia,serif" font-size="72" font-weight="700">Your next idea</text>
+  <text x="76" y="375" fill="#263b36" font-family="Georgia,serif" font-size="72" font-weight="700">starts as a draft.</text>
+  <text x="80" y="427" fill="#52665f" font-family="Arial,sans-serif" font-size="22">A guided creative practice for curious minds.</text>
+  <rect x="80" y="470" width="238" height="60" rx="2" fill="#d04d35"/>
+  <text x="199" y="508" text-anchor="middle" fill="#fffaf0" font-family="Arial,sans-serif" font-size="17" font-weight="700">BEGIN YOUR FIRST PROMPT</text>
+  <circle cx="885" cy="325" r="170" fill="#e6b74f"/>
+  <path d="M805 202 L1009 272 L963 439 L758 366 Z" fill="#fffaf0" stroke="#263b36" stroke-width="5"/>
+  <path d="M847 268 L953 304 M832 310 L941 347 M817 353 L908 385" stroke="#d04d35" stroke-width="9" stroke-linecap="round"/>
+  <path d="M750 475 L819 405 L862 449 L793 518 Z" fill="#3c7770"/>
+  <path d="M786 488 L763 536 L811 513 Z" fill="#263b36"/>
+  <circle cx="1038" cy="177" r="12" fill="#d04d35"/>
+  <path d="M1038 153 V201 M1014 177 H1062" stroke="#d04d35" stroke-width="4"/>
+  <text x="1124" y="615" text-anchor="end" fill="#52665f" font-family="Arial,sans-serif" font-size="14">ORIGINAL GENERATED DESIGN · MID-CENTURY MODERNISM</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Northline, modernist Ruler hero</title>
+  <desc id="desc">A Russian Constructivism-inspired planning toolkit hero with disciplined red and black geometry, grid, headline, and action button.</desc>
+  <rect width="1200" height="675" fill="#f4f0e6"/>
+  <path d="M0 0 H1200 V18 H0 Z" fill="#c94032"/>
+  <path d="M736 18 H1200 V675 H1050 Z" fill="#1f292b"/>
+  <text x="76" y="82" fill="#1f292b" font-family="Arial,sans-serif" font-size="27" font-weight="800" letter-spacing="2">NORTHLINE</text>
+  <text x="1124" y="82" text-anchor="end" fill="#f4f0e6" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">A CLEARER WAY FORWARD</text>
+  <line x1="76" y1="108" x2="1124" y2="108" stroke="#1f292b" stroke-width="2"/>
+  <text x="80" y="196" fill="#c94032" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">A PLANNING TOOLKIT FOR INDEPENDENT TEAMS</text>
+  <text x="76" y="293" fill="#1f292b" font-family="Arial,sans-serif" font-size="68" font-weight="900">Set the standard.</text>
+  <text x="76" y="369" fill="#1f292b" font-family="Arial,sans-serif" font-size="68" font-weight="900">Move with purpose.</text>
+  <text x="80" y="422" fill="#4f5c5a" font-family="Arial,sans-serif" font-size="21">A practical framework for making the next decision clear.</text>
+  <rect x="80" y="468" width="235" height="58" fill="#c94032"/>
+  <text x="198" y="505" text-anchor="middle" fill="#fffaf0" font-family="Arial,sans-serif" font-size="16" font-weight="700">REVIEW THE FRAMEWORK</text>
+  <path d="M812 179 L1094 351 L812 524 Z" fill="#c94032"/>
+  <path d="M856 236 L1052 351 L856 466 Z" fill="#e8b746"/>
+  <rect x="924" y="325" width="125" height="52" fill="#1f292b"/>
+  <text x="985" y="359" text-anchor="middle" fill="#f4f0e6" font-family="Arial,sans-serif" font-size="14" font-weight="700">PLAN / ACT</text>
+  <line x1="780" y1="567" x2="1124" y2="567" stroke="#e8b746" stroke-width="3"/>
+  <text x="1124" y="615" text-anchor="end" fill="#d9ddd6" font-family="Arial,sans-serif" font-size="14">ORIGINAL GENERATED DESIGN · CONSTRUCTIVIST-INSPIRED</text>
+</svg>
