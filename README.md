@@ -2,6 +2,10 @@
 
 **Build a shared reference guide in a team of four.** Explain the topics, show examples, and use GitHub issues and pull requests to work together.
 
+## Team verification
+
+Team leader: [Minh Nguyen](https://github.com/mnguyenht). Completed team repository: [Minh_-archetype_design_persusion](https://github.com/mnguyenht/Minh_-archetype_design_persusion).
+
 ## What to make
 
 | Section | Required work |
